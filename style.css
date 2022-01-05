@@ -26,3 +26,19 @@ body{
    
 
 }
+.app-form h1{
+    display: flex;
+    justify-content: center;
+}
+.click{
+display: flex;
+justify-content: center;
+
+
+}
+.click .btn{
+background-color: cadetblue;
+box-shadow:5px, 10px cornflowerblue;
+transition: all 0.5s;
+border: 1px solid black;
+}
